@@ -1,0 +1,4 @@
+grant codeBase "file:C:\\Users\\User\\Desktop\\Pos\\Aula RMI\\build\\classes\\utfpr\\rmi\\exemplo7"{
+    permission java.security.AllPermission;
+};
+
