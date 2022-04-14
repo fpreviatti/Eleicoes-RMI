@@ -1,6 +1,6 @@
 # Eleicoes-RMI
 
-# Programa feito utilizando os conceitos RMI da Pós-Graduação tecnologia Java da UTFPR para realizar um sistema de eleições com conceitos de RMI Servidor X Urnas.
+# Programa feito utilizando os conceitos RMI da Pós-Graduação tecnologia Java da UTFPR para realizar um sistema de eleições.
 
 1)Visão do eleitor votar:
 
